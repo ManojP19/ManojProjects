@@ -1,0 +1,26 @@
+body {
+  background-color: darkgray;
+}
+h1 {
+  margin-left: 20%;
+  margin-right: 20%;
+  font-size: 35px;
+  background-color: gray;
+  color: white;
+  text-align: center;
+}
+h3, p {
+  margin-left: 10%;
+  margin-right: 10%;
+  color: white;
+}
+h3 {
+  font-size: 25px
+}
+p {
+  font-size: 20px
+}
+
+.custom1 {
+  color: red;
+}
