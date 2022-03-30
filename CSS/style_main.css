@@ -45,6 +45,9 @@ p {
   clear: both;
   padding: 20px;
 }
-.custom1 {
-  color: red;
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
