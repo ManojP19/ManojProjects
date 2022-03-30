@@ -32,6 +32,7 @@ p {
 }
 .left {
   float: left;
+  text-align: right;
   }
 .right {
   float: right;
