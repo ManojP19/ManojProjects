@@ -10,8 +10,8 @@ h1 {
   text-align: center;
 }
 h3, h2, p, ul {
-  margin-left: 20%;
-  margin-right: 20%;
+  margin-left: 4%;
+  margin-right: 4%;
   color: black;
 }
 h2 {
@@ -30,32 +30,4 @@ p {
 }
 * {
   box-sizing: border-box;
-}
-
-/* Create two equal columns that floats next to each other */
-.column {
-  padding: 20px;
-  height: 300px; /* Should be removed. Only for demonstration */
-  width: 49%
-}
-.left {
-  float: left;
-  text-align: right;
-  }
-.right {
-  float: right;
-  }
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-  padding: 20px;
-}
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
 }
