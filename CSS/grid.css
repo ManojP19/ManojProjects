@@ -31,19 +31,18 @@
 .itemrow {
   grid-column-start: 2;
   grid-column-end: 5;
-  background-color: #0d635c;
   text-align: center;
 }
 .item1 {
   grid-column-start: 2;
   grid-column-end: 3;
-  background-color: #90a7ad;
+  background-color: #cfd8e3;
   text-align: center;
 }
 .item2 {
   grid-column-start: 4;
   grid-column-end: 5;
-  background-color: #90a7ad;
+  background-color: #cfd8e3;
   text-align: center;
 }
 .itemleft {
@@ -51,22 +50,18 @@
   grid-column-end: 2;
   grid-row-start: 1;
   grid-row-end: 6;
-  background-color: #0d635c;
 }
 .itemmid {
   grid-column-start: 3;
   grid-column-end: 4;
-  background-color: #0d635c;
 }
 .itemrowspace {
   grid-column-start: 2;
   grid-column-end: 5;
-  background-color: #0d635c;
 }
 .itemright {
   grid-column-start: 5;
   grid-column-end: 6;
   grid-row-start: 1;
   grid-row-end: 6;
-  background-color: #0d635c;
 }
