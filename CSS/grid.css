@@ -31,10 +31,12 @@
 .itemrow {
   grid-column-start: 2;
   grid-column-end: 5;
+  background-color: #90a7ad;
 }
 .item1 {
   grid-column-start: 2;
   grid-column-end: 3;
+  background-color: #90a7ad;
 }
 .itemleft {
   grid-column-start: 1;
@@ -55,4 +57,5 @@
 .item2 {
   grid-column-start: 4;
   grid-column-end: 5;
+  background-color: #90a7ad;
 }
