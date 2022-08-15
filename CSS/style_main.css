@@ -9,9 +9,9 @@ h1 {
   color: white;
   text-align: center;
 }
-h3, p {
-  margin-left: 10%;
-  margin-right: 10%;
+h3, h2, p {
+  margin-left: 20%;
+  margin-right: 20%;
   color: black;
 }
 h2 {
