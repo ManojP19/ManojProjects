@@ -28,3 +28,19 @@
     grid-template-columns: 100px 10px 100px;
     grid-template-rows: 100px 100px;
 }
+.itemrow {
+  grid-column-start: 1;
+  grid-column-end: 4;
+}
+.item1 {
+  grid-column-start: 1;
+  grid-column-end: 2;
+}
+.itemspace {
+  grid-column-start: 2;
+  grid-column-end: 3;
+}
+.item2 {
+  grid-column-start: 3;
+  grid-column-end: 4;
+}
