@@ -23,3 +23,8 @@
   clear: both;
   padding: 20px;
 }
+.wrapper {
+    display: grid;
+    grid-template-columns: 100px 10px 100px;
+    grid-template-rows: 50px 50px;
+}
