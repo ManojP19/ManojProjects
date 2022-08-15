@@ -13,6 +13,7 @@ h3, h2, p, ul {
   margin-left: 4%;
   margin-right: 4%;
   color: black;
+  text-align: justify;
 }
 h2 {
   font-size: 28px
