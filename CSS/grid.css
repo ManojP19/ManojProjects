@@ -26,7 +26,7 @@
 .wrapper {
     display: grid;
     grid-template-columns: 4%  45% 2% 45% 4%;
-    grid-template-rows: 250px 4% 250px 4% 50px;
+    grid-template-rows: 25% 4% 25% 4% 10%;
 }
 .itemrow {
   grid-column-start: 2;
