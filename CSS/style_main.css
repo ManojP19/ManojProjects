@@ -15,15 +15,15 @@ h3, h2, p, ul {
   color: black;
 }
 h2 {
-  font-size: 28px
+  font-size: 28px;
   text-align: justify;
 }
 h3 {
-  font-size: 20px
+  font-size: 20px;
   text-align: justify;
 }
 p {
-  font-size: 14px
+  font-size: 14px;
   text-align: justify;
 }
 
